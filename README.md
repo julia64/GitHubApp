@@ -4,3 +4,5 @@
 2.0 完成了Popular和Trending页面
 
 3.0 完成了Popular,trending和favorite页面
+
+4.0 完成了Popular,trending,favorite和my页面
